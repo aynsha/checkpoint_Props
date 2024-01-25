@@ -1,0 +1,10 @@
+.card{
+    width: 18rem;
+    display: inline-block;
+    margin: 15px;
+}
+
+.mt-4 h1{
+    font-size: 50px;
+    text-align: center;
+}
